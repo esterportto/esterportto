@@ -11,7 +11,7 @@
   <img align="center" alt="Ester-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" alt="Ester-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ester-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ester-icon" height="200" width="200" src="https://pbs.twimg.com/media/FJ54rtoX0AIbNOG?format=png&name=small">
+  <img align="right" alt="Ester-icon" height="200" width="200" style="border-radius:80px" src="https://pbs.twimg.com/media/FJ54rtoX0AIbNOG?format=png&name=small">
 </div>
   
   #
@@ -23,4 +23,4 @@
 </div>
 
  
- ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg)
