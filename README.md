@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ester Pôrto 
 ![enter image description here](https://camo.githubusercontent.com/e752029da12000a5092d5fd5ecd3d5c17261644aa38b6a8ad91d648f2256cb59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b656e365967356e376259537457344a59422f67697068792e676966)
-<p>Tenho 22 anos, Sou super fã da Marvel  💘, Amo Rock 🤟🏻🖤, sou técnica em informática e atualmente estudante do 8º semestre de Eng. de computação no Unisal-Campinas.  </p>
+<p>Tenho 23 anos, Sou super fã da Marvel  💘, Amo Rock 🤟🏻🖤, sou técnica em informática e atualmente estudante do 9º semestre de Eng. de computação no Unisal-Campinas.  </p>
 <p> Sou Engenheira de Software na John Deere. Web-design e front-end é minha paixão, amo desenhar nas horas vagas,  sou apaixonada em  tudo que envolve tecnologia, e participo de projetos incentivando mulheres a entrar na área tecnológica ❤💪🏻 </p>
 
 <div align="left">
