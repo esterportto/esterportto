@@ -15,10 +15,11 @@
   <img align="center" alt="Ester-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" alt="Ester-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ester-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ester-figma" height="30" width="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
   <img align="right" alt="Ester-icon" height="200" width="200" style="border-radius:80px" src="https://pbs.twimg.com/media/FJ54rtoX0AIbNOG?format=png&name=small">
+ 
 </div>
    
-  #
   
 <div>
   <a href="https://www.linkedin.com/in/esterportto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
