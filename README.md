@@ -16,7 +16,7 @@
   <img align="center" alt="Ester-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ester-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ester-figma" height="30" width="40"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
-  <img align="right" alt="Ester-icon" height="200" width="200" style="border-radius:80px" src="https://pbs.twimg.com/media/FJ54rtoX0AIbNOG?format=png&name=small">
+  <img align="right" alt="Ester-icon" height="200" width="200" style="border-radius:80px" src="https://github.com/esterportto/esterportto/blob/main/Pink%20and%20Maroon%20Modern%20Illustrated%20Japan%20Influencer%20Twitch%20Logo%20(3).png?raw=true">
  
 </div>
    
