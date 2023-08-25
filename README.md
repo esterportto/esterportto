@@ -21,6 +21,8 @@ Sempre amei trabalhar no front-end porque me permite combinar minha criatividade
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esterportto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esterportto)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/esterportto) 
   
-
+<div style="display: inline_block"><br>
+  <img align="right" alt="Ester" height="200" width"50" src="https://pbs.twimg.com/profile_images/1647198950196236290/h4i5adry_400x400.jpg">
+</div>
 
 ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg)
