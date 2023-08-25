@@ -1,5 +1,6 @@
 # 👋 Hi there
-![enter image description here](https://camo.githubusercontent.com/e752029da12000a5092d5fd5ecd3d5c17261644aa38b6a8ad91d648f2256cb59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b656e365967356e376259537457344a59422f67697068792e676966)
+![enter image description here](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 <p> Meu nome é Ester Pôrto, tenho 23 anos e atualmente trabalho como Engenheira de Software Júnior na John Deere. Em 2018, me formei como técnica em informática e atualmente estou cursando o 10º semestre de Engenharia de Computação no Unisal-Campinas.  </p>
 <p>Com mais de 6 anos de experiência na área, tive a oportunidade de trabalhar em diversos projetos empolgantes e explorar diferentes tecnologias. Embora o web design e o front-end continuem sendo minha paixão, agora são mais um hobby. Nas horas vagas, também adoro desenhar. Sou apaixonada por tudo o que envolve tecnologia e participo de projetos que incentivam mulheres a ingressar na área tecnológica 💜💪🏻. </p>
 
@@ -21,12 +22,17 @@ Sempre amei trabalhar no front-end porque me permite combinar minha criatividade
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esterportto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esterportto)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/esterportto) 
   
-<div style="display: inline_block"><br>
-  <img align="right" alt="Ester" height="200" width"50" src="https://pbs.twimg.com/profile_images/1647198950196236290/h4i5adry_400x400.jpg">
+
+<div style= "display: inline_block">
+
+  <div style="display: inline_block"><br>
+  <img align="left" alt="Ester" height="200" width"50" src="https://pbs.twimg.com/profile_images/1647198950196236290/h4i5adry_400x400.jpg">
+  </div>
+
+  <div style="flex: 1;">
+    <img alt="Snake animation" src="https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg">
+  </div>
+
 </div>
 
-<div align="center">
 
-  ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg) 
-  
-</div>
