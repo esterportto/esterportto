@@ -25,4 +25,8 @@ Sempre amei trabalhar no front-end porque me permite combinar minha criatividade
   <img align="right" alt="Ester" height="200" width"50" src="https://pbs.twimg.com/profile_images/1647198950196236290/h4i5adry_400x400.jpg">
 </div>
 
-![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
