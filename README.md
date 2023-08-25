@@ -27,6 +27,6 @@ Sempre amei trabalhar no front-end porque me permite combinar minha criatividade
 
 <div align="center">
 
-  ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/esterportto/esterportto/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
