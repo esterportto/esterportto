@@ -1,7 +1,7 @@
 # 👋 Hi there
 ![enter image description here](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<p> Meu nome é Ester Pôrto, tenho 23 anos e atualmente trabalho como Engenheira de Software Júnior na John Deere. Em 2023, me formei em Engenharia de Computação no Unisal-Campinas e também sou técnica em informática.  </p>
+<p> Meu nome é Ester Pôrto, tenho 23 anos e atualmente trabalho como Engenheira de Software Júnior na John Deere. Em 2023, me formei em Engenharia de Computação no Unisal-Campinas.  </p>
 <p>Com mais de 6 anos de experiência na área, tive a oportunidade de trabalhar em diversos projetos empolgantes e explorar diferentes tecnologias. Embora o web design e o front-end continuem sendo minha paixão, agora são mais um hobby. Nas horas vagas, também adoro desenhar. Sou apaixonada por tudo o que envolve tecnologia e participo de projetos que incentivam mulheres a ingressar na área tecnológica 💜💪🏻. </p>
 
 # 🚀 Expertise
