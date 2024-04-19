@@ -7,7 +7,7 @@
 # 🚀 Expertise
 Meu foco principal sempre foi o desenvolvimento de front-end, onde me especializei na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript, e sou proficiente em estruturas e bibliotecas populares, como React. 
 Sempre amei trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
-<p> Há cerca de um ano, tive uma grande oportunidade de retornar à John Deere, porém com novos desafios fora do front-end. Atualmente, estou mergulhando no mundo SAP e progredindo em minha carreira como programadora em ABAP. Estou entusiasmada em expandir meu conjunto de habilidades e explorar novas áreas no campo da engenharia de software 💜.</p>
+<p> Há cerca de dois anos, tive uma grande oportunidade de retornar à John Deere, porém com novos desafios fora do front-end. Atualmente, estou mergulhando no mundo SAP e progredindo em minha carreira como programadora em ABAP. Estou entusiasmada em expandir meu conjunto de habilidades e explorar novas áreas no campo da engenharia de software 💜.</p>
 
 # 💻 Tech Stack
 
