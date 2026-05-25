@@ -1,13 +1,13 @@
 # 👋 Hi there
 ![enter image description here](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<p> Meu nome é Ester Pôrto, tenho 23 anos e atualmente trabalho como Engenheira de Software Júnior na John Deere. Em 2023, me formei em Engenharia de Computação no Unisal-Campinas.  </p>
-<p>Com mais de 6 anos de experiência na área, tive a oportunidade de trabalhar em diversos projetos empolgantes e explorar diferentes tecnologias. Embora o web design e o front-end continuem sendo minha paixão, agora são mais um hobby. Nas horas vagas, também adoro desenhar. Sou apaixonada por tudo o que envolve tecnologia e participo de projetos que incentivam mulheres a ingressar na área tecnológica 💜💪🏻. </p>
+<p> Meu nome é Ester Pôrto, tenho 26 anos e atualmente trabalho como Engenheira de Softwarena John Deere. Em 2023, me formei em Engenharia de Computação no Unisal-Campinas e atualmente curso MBA em User Experience Design na PUCRS.  </p>
+<p>Com mais de 8 anos de experiência na área, tive a oportunidade de trabalhar em diversos projetos empolgantes e explorar diferentes tecnologias. Embora o web design e o front-end continuem sendo minha paixão, agora são mais um hobby. Nas horas vagas, também adoro desenhar. Sou apaixonada por tudo o que envolve tecnologia e participo de projetos que incentivam mulheres a ingressar na área tecnológica 💜💪🏻. </p>
 
 # 🚀 Expertise
 Meu foco principal sempre foi o desenvolvimento de front-end, onde me especializei na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript, e sou proficiente em estruturas e bibliotecas populares, como React. 
 Sempre amei trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
-<p> Há cerca de dois anos, tive uma grande oportunidade de retornar à John Deere, porém com novos desafios fora do front-end. Atualmente, estou mergulhando no mundo SAP e progredindo em minha carreira como programadora em ABAP. Estou entusiasmada em expandir meu conjunto de habilidades e explorar novas áreas no campo da engenharia de software 💜.</p>
+<p> Há cerca de quatro anos, tive uma grande oportunidade de retornar à John Deere, porém com novos desafios fora do front-end. Atualmente, estou mergulhando no mundo SAP e progredindo em minha carreira como programadora em ABAP. Estou entusiasmada em expandir meu conjunto de habilidades e explorar novas áreas no campo da engenharia de software 💜.</p>
 
 # 💻 Tech Stack
 
