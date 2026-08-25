@@ -1,13 +1,12 @@
 # 👋 Hi there
 ![enter image description here](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<p> Meu nome é Ester Pôrto, tenho 26 anos e atualmente trabalho como Engenheira de Softwarena John Deere. Em 2023, me formei em Engenharia de Computação no Unisal-Campinas e atualmente curso MBA em User Experience Design na PUCRS.  </p>
-<p>Com mais de 8 anos de experiência na área, tive a oportunidade de trabalhar em diversos projetos empolgantes e explorar diferentes tecnologias. Embora o web design e o front-end continuem sendo minha paixão, agora são mais um hobby. Nas horas vagas, também adoro desenhar. Sou apaixonada por tudo o que envolve tecnologia e participo de projetos que incentivam mulheres a ingressar na área tecnológica 💜💪🏻. </p>
+<p> Meu nome é Ester, sou formada em Engenharia de Computação pelo UNISAL-Campinas e atualmente curso MBA em User Experience Design pela PUCRS. </p> <p> Tenho mais de 8 anos de experiência na área de tecnologia, período em que tive a oportunidade de trabalhar em diferentes projetos, explorar diversas tecnologias e ampliar minha atuação em engenharia de software. Desenvolvimento front-end, web design e UX são algumas das minhas paixões. Nas horas vagas, também adoro desenhar. Sou apaixonada por tudo o que envolve tecnologia e participo de projetos que incentivam mulheres a ingressarem e crescerem na área de tecnologia 💜💪🏻. </p>
 
 # 🚀 Expertise
-Meu foco principal sempre foi o desenvolvimento de front-end, onde me especializei na criação de aplicativos da Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript, e sou proficiente em estruturas e bibliotecas populares, como React. 
-Sempre amei trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
-<p> Há cerca de quatro anos, tive uma grande oportunidade de retornar à John Deere, porém com novos desafios fora do front-end. Atualmente, estou mergulhando no mundo SAP e progredindo em minha carreira como programadora em ABAP. Estou entusiasmada em expandir meu conjunto de habilidades e explorar novas áreas no campo da engenharia de software 💜.</p>
+Meu foco começou no desenvolvimento front-end, área em que me especializei na criação de aplicações web interativas, funcionais e intuitivas. Tenho experiência com TypeScript, JavaScript, HTML5, CSS3, SASS e SCSS, além de frameworks e bibliotecas como React e Angular.
+Sempre gostei de trabalhar com front-end por permitir unir criatividade, tecnologia e resolução de problemas para criar experiências de usuário cada vez melhores. Atualmente, minha experiência em desenvolvimento, aliada à formação em User Experience Design, me permite enxergar os produtos digitais de forma mais ampla, conectando tecnologia, design e experiência do usuário.
+<p> Há cerca de quatro anos, tive a oportunidade de retornar à John Deere, assumindo novos desafios além do desenvolvimento front-end. Iniciei uma nova etapa da minha carreira como desenvolvedora ABAP, mergulhando no universo SAP e ampliando minha experiência com sistemas corporativos. </p> <p> Posteriormente, passei a atuar como Engenheira de Software Full Stack, trabalhando com desenvolvimento web utilizando Java, Spring Boot, React, TypeScript, JavaScript, HTML5, CSS3, SASS/SCSS e SAP/ABAP. Nesse período, também atuei com arquitetura e desenvolvimento de microsserviços escaláveis, integração e consumo de APIs REST, arquitetura orientada a eventos e sistemas distribuídos. </p> <p> Minha experiência inclui ainda a implementação de testes automatizados com Jest, QUnit, JUnit, Mockito e ABAP Unit, além da implementação e manutenção de pipelines de CI/CD com GitHub Actions, versionamento com Git/GitHub, revisão de código e aplicação de boas práticas de engenharia de software. </p> <p> Também tenho experiência com integrações entre sistemas e APIs, melhoria contínua da experiência do usuário e colaboração diária com equipes internacionais, utilizando o inglês na comunicação técnica. Ao longo dessa trajetória, trabalhei com metodologias ágeis, como Scrum, durante diferentes etapas do ciclo de desenvolvimento. </p> <p> Estou sempre entusiasmada em aprender, expandir meu conjunto de habilidades e explorar novas possibilidades no campo da engenharia de software, unindo tecnologia, criatividade e experiência do usuário. 💜 </p>
 
 # 💻 Tech Stack
 
@@ -20,7 +19,7 @@ Sempre amei trabalhar no front-end porque me permite combinar minha criatividade
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=esterportto&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esterportto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esterportto)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/esterportto) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esterguilhem)) 
   
 
 <div style= "display: inline_block">
