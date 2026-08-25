@@ -20,7 +20,8 @@ Sempre gostei de trabalhar com front-end por permitir unir criatividade, tecnolo
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=esterportto&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esterguilhem)) 
+<p align="left"> <a href="https://discord.com/users/starlight71" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/esterportto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/esterguilhem," target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
   
 
 <div style= "display: inline_block">
