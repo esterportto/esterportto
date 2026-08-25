@@ -12,7 +12,7 @@ Sempre gostei de trabalhar com front-end por permitir unir criatividade, tecnolo
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,react,js,html,css,sass,nextjs,redux,nodejs,materialui,jest,jenkins,jquery,figma,angular,aws,azure,bash,bitbucket,bootstrap,c,cs,docker,kubernetes,dynamodb,eclipse,git,github,githubactions,gitlab,grafana,idea,mongodb,mysql,ps,postgres,postman,spring,terraform,vue,webflow,webpack,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,react,js,html,css,sass,nextjs,redux,nodejs,materialui,jest,jenkins,jquery,figma,angular,aws,azure,bitbucket,bootstrap,docker,kubernetes,dynamodb,eclipse,git,github,githubactions,gitlab,grafana,idea,mongodb,mysql,postgres,postman,spring,terraform,vue,webflow,webpack)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=esterportto&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esterportto&theme=neon&hide_border=false"  width="400px" />
